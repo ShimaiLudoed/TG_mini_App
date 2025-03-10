@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "546665442597",
+    "firebase_url": "https://tgminiapp-d0107-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tgminiapp-d0107",
+    "storage_bucket": "tgminiapp-d0107.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546665442597:android:49b7a6c188a09ee0f8becc",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TgMiniAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtrbBAk9W4Vr1agiJiJkSixgt2rIdQQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
